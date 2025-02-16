@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **riturajsharma54321@gmail.com**
+- 📫 How to reach **riturajsharma54321@gmail.com**
 
 - ⚡ Fun fact **I am funny😂**
 
