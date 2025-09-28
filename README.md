@@ -6,13 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riturajsharma707&label=Profile%20views&color=0e75b6&style=flat" alt="riturajsharma707" /> </p>
 
-- 🔭 I’m currently working on **Mobile App and Web App projects**
+- 🔭 I’m currently working on **Flutter Mobile & Web Applications**
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **Advanced Flutter Animations & AI Integration**
 
 - 📫 How to reach **riturajsharma54321@gmail.com**
 
-- ⚡ Fun fact **I am funny😂**
+- 👯 I'm looking to collaborate on **Open Source Flutter Projects**
+
+- ⚡ Fun fact: **I turn coffee into code and ideas into apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
