@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riturajsharma707&label=Profile%20views&color=0e75b6&style=flat" alt="riturajsharma707" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Project**
+- 🔭 I’m currently working on **Mobile App and Web App projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 📫 How to reach **riturajsharma54321@gmail.com**
 
