@@ -32,6 +32,11 @@
 " alt="flutter" width="40" height="40"/> </a>
 </p>
 
+
+<div align="center">
+  <img alt="Rituraj's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amasick&bg_color=0D1117&color=5ce1e6&line=5ce1e6&point=FFFFFF&hide_border=true" />
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riturajsharma707&show_icons=true&locale=en&layout=compact" alt="riturajsharma707" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajsharma707&show_icons=true&locale=en" alt="riturajsharma707" /></p>
