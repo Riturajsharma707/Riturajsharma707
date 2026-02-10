@@ -43,7 +43,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajsharma707" alt="riturajsharma707" /></p> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariturajsharma707&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajsharma707&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="180"/>
 </div>
 
 
